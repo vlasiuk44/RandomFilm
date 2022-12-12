@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RandomFilm</string>
+    <string name="next">Следующий фильм</string>
+    <string name="reset">Сбросить</string>
+    <string-array name="movies">
+        <item>Шрек</item>
+        <item>Кот в сапогах</item>
+        <item>Головоломка</item>
+        <item>Форсаж</item>
+        <item>Брат</item>
+    </string-array>
+</resources>
